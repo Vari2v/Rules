@@ -1,0 +1,9 @@
+# NAME: OpenAI_EX
+# UPDATED: 2023-11-28
+
+
+HOST-KEYWORD,stripe,OpenAI_EX
+HOST-KEYWORD,intercom,OpenAI_EX
+HOST-KEYWORD,cloudflare,OpenAI_EX
+HOST-SUFFIX,segment.io,OpenAI_EX
+HOST-SUFFIX,sentry.io,OpenAI_EX
